@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+th,
+td {
+  background-color: rgb(50, 47, 218);
+  border: 2px solid rgb(211, 107, 21);
+  color: white;
+  width: 200px;
+}
